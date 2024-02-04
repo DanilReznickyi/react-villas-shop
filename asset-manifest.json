@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-villas-shop/static/css/main.71f0ff6b.css",
+    "main.js": "/react-villas-shop/static/js/main.2bc570f1.js",
+    "static/media/bg.jpg": "/react-villas-shop/static/media/bg.add57b08e214213e8419.jpg",
+    "index.html": "/react-villas-shop/index.html",
+    "main.71f0ff6b.css.map": "/react-villas-shop/static/css/main.71f0ff6b.css.map",
+    "main.2bc570f1.js.map": "/react-villas-shop/static/js/main.2bc570f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f0ff6b.css",
+    "static/js/main.2bc570f1.js"
+  ]
+}
